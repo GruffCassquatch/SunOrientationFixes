@@ -11,7 +11,7 @@ using MelonLoader;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("SunOrientationFixes")]
-[assembly: AssemblyCopyright("Copyright ©  2021")]
+[assembly: AssemblyCopyright("Copyright ©  2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -33,7 +33,7 @@ using MelonLoader;
 // You can specify all the values or you can default the Build and Revision Numbers
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.1.*")]
-[assembly: AssemblyVersion("1.1")]
-[assembly: AssemblyFileVersion("1.1")]
-[assembly: MelonInfo(typeof(SunOrientationFixes.Implementation), "SunOrientationFixes", "1.1", "GruffCassquatch")]
+[assembly: AssemblyVersion("1.2")]
+[assembly: AssemblyFileVersion("1.2")]
+[assembly: MelonInfo(typeof(SunOrientationFixes.Implementation), "SunOrientationFixes", "1.2", "GruffCassquatch")]
 [assembly: MelonGame("Hinterland", "TheLongDark")]
