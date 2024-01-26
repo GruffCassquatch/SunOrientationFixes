@@ -1,5 +1,7 @@
 # Sun Orientation Fixes
-A mod for The Long Dark.   
+A mod for The Long Dark.
+
+I AM NOT CURRENTLY MAINTAINING THIS OR ANY OTHER MOD. PLEASE DO NOT OPEN ISSUES OR CONTACT ME REGARDING THIS OR ANY OTHER MOD.
 
 Fixes the orientation of the sun in several regions. Now the sun should be consistent across all regions and with the World Map.
 
